@@ -1,0 +1,10 @@
+@tailwind base; @tailwind components; @tailwind utilities;
+html { scroll-behavior: smooth; scroll-padding-top: 4.5rem; }
+body { @apply bg-ink text-fg font-sans antialiased overflow-x-hidden; }
+:focus-visible { outline: 2px solid #2dd4bf; outline-offset: 3px; }
+@keyframes rise { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: none; } }
+.rise { animation: rise .7s ease-out both; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } .rise { animation: none; } * { transition: none !important; } }
+.btn { @apply inline-flex items-center gap-2 rounded-md px-5 py-2.5 text-sm font-medium transition-colors; }
+.btn-primary { @apply bg-accent text-ink hover:bg-teal-300; }
+.btn-ghost { @apply border border-line text-fg hover:border-accent hover:text-accent; }
