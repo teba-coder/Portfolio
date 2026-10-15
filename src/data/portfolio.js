@@ -37,7 +37,7 @@ export const projects = [{
   category: 'Web App',
   description: 'A web platform for tracking and recording financial receipts.',
   tech: ['React', 'Spring Boot', 'PostgreSQL'],
-  image: '',
+  image: '/accoun.png',
   github: '',
   live: '',
 }]
