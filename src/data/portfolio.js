@@ -29,8 +29,16 @@ export const projects = [{
   category: 'Web App',
   description: 'A web-based platform for managing immunization records and schedules. Built as my final year project.', // PLACEHOLDER
   tech: ['React', 'Node.js', 'MongoDB'], 
-  image: '/final.JPG', // PLACEHOLDER: path to a screenshot, e.g. '/eimmunization.png'
-  github: '', // private repository
+  image: '/final.JPG',
+  github: '',
+  live: '',
+}, {
+  name: 'WKU Finance File Management System',
+  category: 'Web App',
+  description: 'A web platform for tracking and recording financial receipts.',
+  tech: ['React', 'Spring Boot', 'PostgreSQL'],
+  image: '',
+  github: '',
   live: '',
 }]
 export const experience = [{
