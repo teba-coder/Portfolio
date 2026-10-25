@@ -1,7 +1,7 @@
 
 export const profile = {
   name: 'Tebibu Solomon Mulugeta',
-  title: 'Full Stack-Developer',
+  title: 'Full-Stack Developer',
   intro: 'I build clear, responsive web apps .', 
   location: 'Addis Ababa, Ethiopia',
   email: 'solomontebibu1420@gmail.com',
