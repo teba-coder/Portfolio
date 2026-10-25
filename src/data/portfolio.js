@@ -1,12 +1,12 @@
 
 export const profile = {
   name: 'Tebibu Solomon Mulugeta',
-  title: 'Front-End Developer',
+  title: 'Full Stack-Developer',
   intro: 'I build clear, responsive web apps .', 
   location: 'Addis Ababa, Ethiopia',
   email: 'solomontebibu1420@gmail.com',
   phone: '+251909264423',
-  resume: 'resume.pdf', 
+  resume: 'Cv.pdf', 
   links: {
     github: 'https://github.com/teba-coder',
     linkedin: 'https://www.linkedin.com/in/tebibso20',
