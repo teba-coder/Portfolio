@@ -30,15 +30,15 @@ export const projects = [{
   description: 'A web-based platform for managing immunization records and schedules. Built as my final year project.', // PLACEHOLDER
   tech: ['React', 'Node.js', 'MongoDB'], 
   image: '/final.JPG',
-  github: '',
+  github: 'https://github.com/teba-coder/E-Immunization-Ethiopia',
   live: '',
 }, {
-  name: 'WKU Finance File Management System',
+  name: 'Small Shop Management System',
   category: 'Web App',
-  description: 'A web platform for tracking and recording financial receipts.',
-  tech: ['React', 'Spring Boot', 'PostgreSQL'],
-  image: '/accoun.png',
-  github: '',
+  description: 'Inventory and sales tracker for small shops. A shop owner manages products, sees daily revenue and manage his sales',
+  tech: ['React 18, Vite, React Router, Tailwind CSS, Recharts, Lucide icons', 'Node.Node.js, Express', 'MongoDB Atlas with Mongoose'],
+  github: 'https://github.com/teba-coder/Shoptrack',
+  image: '/dashboard.png',
   live: '',
 }]
 export const experience = [{
