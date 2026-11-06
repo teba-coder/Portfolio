@@ -18,10 +18,10 @@ export const about = [
 
 ]
 export const skills = {
-  Frontend: ['React', 'Tailwind CSS', 'Figma',],
-  Backend: ['Node.js', 'Spring Boot'],
-  Languages: ['Java', 'Python,TypeScript,JavaScript'],
-  Databases: ['MongoDB'],
+  Frontend: ['React', 'Tailwind CSS', 'NextJS',],
+  Backend: ['Node.js', ' Express.js','NestJS'],
+  Languages: ['Java', 'Python','TypeScript','JavaScript'],
+  Databases: ['MongoDB','PostgreSQL'],
   Tools: ['Git', 'GitHub'],
 }
 export const projects = [{
