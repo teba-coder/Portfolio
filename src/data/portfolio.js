@@ -22,7 +22,7 @@ export const skills = {
   Backend: ['Node.js', ' Express.js','NestJS'],
   Languages: ['Java', 'Python','TypeScript','JavaScript'],
   Databases: ['MongoDB','PostgreSQL'],
-  Tools: ['Git', 'GitHub'],
+  Tools: ['Git', 'GitHub','Docker'],
 }
 export const projects = [{
   name: 'E-Immunization Platform',
